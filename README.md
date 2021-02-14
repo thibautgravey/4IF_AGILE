@@ -1,6 +1,5 @@
 # 4IF_PLD_AGILE
-Agile Long Duration Project at INSA Lyon - Pick &amp; Delivery
-Group project of 6 persons
+Agile Long Duration Project at INSA Lyon - Pick &amp; Delivery. Group project of 6 persons.
 
 [Site internet contenant la JavaDoc](http://agile.hexaone.fr/)
 
